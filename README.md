@@ -1,4 +1,4 @@
-# I'm Ayush , and I made this readme cuz I heard it makes github profile SEO optimised , else i think it's of no use . Go checkout my repos I think those are full of use
+# I'm Ayush, nd I'm
 
 crushing leetcode and building scalable backend systems.
 
