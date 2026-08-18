@@ -1,1 +1,1 @@
-# nobody really gives a f... , just keep building
+# who cares?, just keep building
